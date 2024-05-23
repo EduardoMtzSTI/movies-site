@@ -1,0 +1,19 @@
+Crear una aplicacion para buscar peliculas
+
+
+Api a usar:
+
+- https://www.omdbapi.com/
+- API-KEY:257ac51f
+
+Requerimientos:
+
+- Crear un input para ingresar el titulo de la pelicula y un boton para buscar.
+- Listar las peliculas encontradas y mostrar titulo, año y poster.
+- Mostrar las peliculas en un grid responsivo.
+
+Primera interaccion:
+
+- Evita que se haga la misma busqueda dos veces seguida.
+- Haz que la busqueda se haga automaticamente al escribir.
+- Evita que se haga la busqueda continuamente al escribir (debounce).
